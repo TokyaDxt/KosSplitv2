@@ -1,0 +1,10 @@
+{
+  "description": "A web application for viewing and organizing attached content, helping users quickly access and manage shared files.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
